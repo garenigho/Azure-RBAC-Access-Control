@@ -6,7 +6,7 @@ Applies Azure Role-Based Access Control (RBAC) to a single VM using Terraform, d
 
 | | |
 |---|---|
-| **Depends on** | [Lab 1 — NTFS File Server](../ntfs-lab-terraform) must be fully deployed — `RG-FileServerLab` and `FS01` must exist |
+| **Depends on** | [Lab 1 — NTFS File Server]([../ntfs-lab-terraform](https://github.com/garenigho/NFTS-File-Server-Lab.git)) must be fully deployed — `RG-FileServerLab` and `FS01` must exist |
 | **What gets created** | 3 role assignments on `FS01` only — no new VMs, no new networking |
 | **Deploy time** | Under 1 minute (+ 2–10 min RBAC propagation) |
 | **Cost** | Role assignments are free — only Lab 1 VMs incur compute charges |
