@@ -193,8 +193,6 @@ az vm start --ids $(az vm list -g RG-FileServerLab --query "[].id" -o tsv)
 
 ## Deployment Guide
 
-> Full file contents and inline rationale for every file live in [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md). Summary below.
-
 1. **Create a separate project folder:**
    ```powershell
    New-Item -ItemType Directory -Path "$HOME\rbac-lab-terraform"
