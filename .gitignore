@@ -1,0 +1,10 @@
+terraform.tfvars
+*.tfvars
+!terraform.tfvars.example
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+.terraform/
+.terraform.lock.hcl
+*.tfplan
+RBAC_Lab_Report.txt

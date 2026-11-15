@@ -1,0 +1,8 @@
+resource_group_name    = "RG-FileServerLab"
+vm_name                = "FS01"
+location               = "Central US"
+
+# Fill in real values after running the Object ID script in Step 4.
+sysadmin_object_id     = "3f9a1c52-7b8e-4d21-9c6a-0e5d8b4f2a17"
+support_user_object_id = "3f9a1c52-7b8e-4d21-9c6a-0e5d8b4f2a17"
+auditor_object_id      = "3f9a1c52-7b8e-4d21-9c6a-0e5d8b4f2a17"
