@@ -1,3 +1,4 @@
+[![Watch the Architecture Walkthrough on Loom](https://img.shields.io/badge/Watch%20Walkthrough-Loom-2496ED?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/af5e47bf10274dc7bd41f3fb6a1772ae)
 # Lab 2 — Azure RBAC Access Control
 
 **Owner · VM Contributor · Reader — Scoped to FS01 Only · Terraform + PowerShell**
